@@ -6,8 +6,8 @@ public class findMissingNumInArray {
 int num[]= {1,2,4,5,6};
 
 System.out.println("Missing number is: " + findMissingNumber(num));
-
-int sum=0;
+	}
+// sum=0;
 /*int num1[]= {1,2,3,4,5,6};
 
 int sum=0;
@@ -22,11 +22,9 @@ int sub=sum1-sum;
 System.out.println(sub);
 }
 	}*/
-int n=num.length;
-//sum=n(n+1)/2
 
-	}
 
+	
 
 // formula is : n(n+1)/2
     public static int findMissingNumber(int[] arr) {

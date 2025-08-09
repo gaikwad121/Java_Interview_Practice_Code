@@ -7,7 +7,8 @@ public class oddEven {
 		int num=164;
 		if(num%2==0) {
 			System.out.println("Even");
-		}else {
+		}else 
+		{
 			System.out.println("Odd");
 
 		}

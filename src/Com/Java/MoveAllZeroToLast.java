@@ -16,6 +16,7 @@ moveLast(arr);
 		arr[j]=temp;
 		j++;
 		}
+		
 		}
 		
 		for(int a:arr) {

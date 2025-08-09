@@ -19,6 +19,7 @@ static void maxSecondArray(int arr[]) {
 	if(arr[i]!=max && arr[i]> SecondMax) {
 		SecondMax=arr[i];
 	}
+	
 	}
 	System.out.println(SecondMax);
 }

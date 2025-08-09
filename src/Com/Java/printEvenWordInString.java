@@ -24,7 +24,8 @@ public class printEvenWordInString {
 				System.out.println("Odd Word"+words);
 			}
 		}
-		}
+		
+	}
 	}
 
 

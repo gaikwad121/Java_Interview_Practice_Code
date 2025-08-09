@@ -19,6 +19,7 @@ countLengthOfLastWordOfString.CountLength(str);
 			break;
 		}
 	}
+	
 	}
 		
 	}

@@ -6,7 +6,7 @@ public class countFrequencyOfAString {
 
     public static void main(String[] args) {
         String str = "Gaikwad";
-        countOfChar(str); // ✅ Method call added
+        countOfChar(str); 
     }
 
     static void  countOfChar(String str) {
